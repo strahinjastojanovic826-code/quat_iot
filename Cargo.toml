@@ -2,7 +2,7 @@
 name = "quat_iot"
 version = "0.1.0"
 edition = "2024"
-authors = ["Strale <strahinjastojanovic826@gmail.com>]
+authors = ["Strale <strahinjastojanovic826@gmail.com>"]
 description = "Advanced no_std quaternary (2-bit per quat) storage, ring buffer, RLE, and framing library for IoT devices"
 license = "AGPL-3.0-only"
 repository = "https://github.com/strahinjastojanovic826-code/quat_iot"
